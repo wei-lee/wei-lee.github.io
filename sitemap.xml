@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hereswei.com/2017/02/06/hello-world/</loc>
+    <loc>https://www.hereswei.com/about/index.html</loc>
     
-    <lastmod>2017-02-06T23:10:13.000Z</lastmod>
+    <lastmod>2017-09-07T22:05:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hereswei.com/Tags/index.html</loc>
+    
+    <lastmod>2017-09-07T22:03:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hereswei.com/2017/02/08/2017-02/devconf/</loc>
+    
+    <lastmod>2017-09-07T21:17:49.000Z</lastmod>
     
   </url>
   

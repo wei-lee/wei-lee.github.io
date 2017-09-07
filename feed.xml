@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wei</title>
+  <icon>https://www.gravatar.com/avatar/d0c8b9f02068ddd06c9f6400bca3e19b</icon>
+  
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="https://www.hereswei.com/"/>
+  <updated>2017-09-07T21:17:49.000Z</updated>
+  <id>https://www.hereswei.com/</id>
+  
+  <author>
+    <name>Wei Li</name>
+    <email>weileylee@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Microservices: Lessons Learned</title>
+    <link href="https://www.hereswei.com/2017/02/08/2017-02/devconf/"/>
+    <id>https://www.hereswei.com/2017/02/08/2017-02/devconf/</id>
+    <published>2017-02-08T23:13:58.000Z</published>
+    <updated>2017-09-07T21:17:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>At this year's <a href="https://devconf.cz/" target="_blank" rel="external">DevConf</a> in Brno, Czech Republic, I gave a talk titled &quot;Microservices: Lessons Learned&quot;.</p><p>These lessons are based on the real-world experience we had when try to move our platform from monolith to microservices. I hope you will find them useful.</p><p>Here are the slides:</p><p><iframe src="https://redhat.slides.com/weil/microservices-lesson-learnt/embed?token=4ad_KNmA" width="100%" height="420" scrolling="no" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></p><p>There is a <a href="https://youtu.be/c0n8LcszVdM" target="_blank" rel="external">video</a> as well if you want to watch it.</p><p>Thanks and enjoy!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;At this year&#39;s &lt;a href=&quot;https://devconf.cz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DevConf&lt;/a&gt; in Brno, Czech Republic, I gave a talk titled &amp;qu
+      
+    
+    </summary>
+    
+    
+      <category term="talk" scheme="https://www.hereswei.com/tags/talk/"/>
+    
+      <category term="conference" scheme="https://www.hereswei.com/tags/conference/"/>
+    
+      <category term="Brno" scheme="https://www.hereswei.com/tags/Brno/"/>
+    
+      <category term="devconf" scheme="https://www.hereswei.com/tags/devconf/"/>
+    
+      <category term="microservices" scheme="https://www.hereswei.com/tags/microservices/"/>
+    
+  </entry>
+  
+</feed>
